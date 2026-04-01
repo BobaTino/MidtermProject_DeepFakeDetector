@@ -4,11 +4,9 @@ import torch.optim as optim
 from torchvision import datasets, transforms, models
 from torch.utils.data import DataLoader, random_split
 
-# Device (GPU if available)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print("Using device:", device)
 
-# Transforms (IMPORTANT for better accuracy)
 transform = transforms.Compose([
     transforms.Resize((224, 224)),
     transforms.RandomHorizontalFlip(),
@@ -20,7 +18,7 @@ dataset = datasets.ImageFolder("dataset/", transform=transform)
 
 print("Classes:", dataset.classes)
 
-# Split dataset (80/20)
+# Split dataset 
 train_size = int(0.8 * len(dataset))
 test_size = len(dataset) - train_size
 
@@ -58,7 +56,7 @@ for epoch in range(epochs):
 
     print(f"Epoch {epoch+1}/{epochs}, Loss: {running_loss:.4f}")
 
-# 🔍 Evaluation
+# Evaluation
 model.eval()
 correct = 0
 total = 0
