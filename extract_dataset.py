@@ -7,14 +7,18 @@ INPUT_DIRS = {
 }
 
 OUTPUT_DIR = "dataset"
-FRAMES_PER_VIDEO = 10
+FRAMES_PER_VIDEO = 20
 
-def extract_frames(video_path, output_folder):
+face_cascade = cv2.CascadeClassifier(
+    cv2.data.haarcascades + "haarcascade_frontalface_default.xml"
+)
+
+def extract_frames(video_path, output_folder, max_frames=10):
     cap = cv2.VideoCapture(video_path)
     total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
-    
-    step = max(total_frames // FRAMES_PER_VIDEO, 1)
-    
+
+    step = max(total_frames // max_frames, 1)
+
     count = 0
     saved = 0
 
@@ -25,13 +29,27 @@ def extract_frames(video_path, output_folder):
         if not ret:
             break
 
-        if count % step == 0 and saved < FRAMES_PER_VIDEO:
-            frame = cv2.resize(frame, (224, 224))
-            
-            filename = os.path.join(output_folder, f"{video_id}_{saved}.jpg")
-            cv2.imwrite(filename, frame)
-            
-            saved += 1
+        if count % step == 0 and saved < max_frames:
+
+            # Convert to grayscale
+            gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+
+            # Detect faces
+            faces = face_cascade.detectMultiScale(gray, 1.3, 5)
+
+            # Loop through detected faces
+            for (x, y, w, h) in faces:
+                face = frame[y:y+h, x:x+w]
+                face = cv2.resize(face, (224, 224))
+
+                filename = os.path.join(output_folder, f"{video_id}_{saved}.jpg")
+                cv2.imwrite(filename, face)
+
+                saved += 1
+
+                # Stop if enough frames
+                if saved >= max_frames:
+                    break
 
         count += 1
 
