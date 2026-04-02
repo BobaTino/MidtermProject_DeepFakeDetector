@@ -1,0 +1,267 @@
+[
+    {
+        "video": "v1.mp4",
+        "prediction": "REAL",
+        "confidence": 0.56
+    },
+    {
+        "video": "v10.mp4",
+        "prediction": "REAL",
+        "confidence": 41.43
+    },
+    {
+        "video": "v11.mp4",
+        "prediction": "REAL",
+        "confidence": 46.29
+    },
+    {
+        "video": "v12.mp4",
+        "prediction": "REAL",
+        "confidence": 39.8
+    },
+    {
+        "video": "v13.mp4",
+        "prediction": "REAL",
+        "confidence": 33.45
+    },
+    {
+        "video": "v14.mp4",
+        "prediction": "REAL",
+        "confidence": 40.19
+    },
+    {
+        "video": "v15.mp4",
+        "prediction": "REAL",
+        "confidence": 38.46
+    },
+    {
+        "video": "v16.mp4",
+        "prediction": "REAL",
+        "confidence": 39.12
+    },
+    {
+        "video": "v17.mp4",
+        "prediction": "REAL",
+        "confidence": 39.45
+    },
+    {
+        "video": "v18.mp4",
+        "prediction": "FAKE",
+        "confidence": 58.6
+    },
+    {
+        "video": "v19.mp4",
+        "prediction": "REAL",
+        "confidence": 38.27
+    },
+    {
+        "video": "v2.mp4",
+        "prediction": "REAL",
+        "confidence": 3.93
+    },
+    {
+        "video": "v20.mp4",
+        "prediction": "REAL",
+        "confidence": 41.55
+    },
+    {
+        "video": "v21.mp4",
+        "prediction": "REAL",
+        "confidence": 39.55
+    },
+    {
+        "video": "v22.mp4",
+        "prediction": "REAL",
+        "confidence": 47.81
+    },
+    {
+        "video": "v23.mp4",
+        "prediction": "FAKE",
+        "confidence": 68.06
+    },
+    {
+        "video": "v24.mp4",
+        "prediction": "REAL",
+        "confidence": 39.27
+    },
+    {
+        "video": "v25.mp4",
+        "prediction": "REAL",
+        "confidence": 46.94
+    },
+    {
+        "video": "v26.mp4",
+        "prediction": "REAL",
+        "confidence": 36.14
+    },
+    {
+        "video": "v27.mp4",
+        "prediction": "FAKE",
+        "confidence": 56.97
+    },
+    {
+        "video": "v28.mp4",
+        "prediction": "REAL",
+        "confidence": 42.61
+    },
+    {
+        "video": "v29.mp4",
+        "prediction": "REAL",
+        "confidence": 33.78
+    },
+    {
+        "video": "v3.mp4",
+        "prediction": "REAL",
+        "confidence": 11.48
+    },
+    {
+        "video": "v30.mp4",
+        "prediction": "REAL",
+        "confidence": 36.63
+    },
+    {
+        "video": "v31.mp4",
+        "prediction": "REAL",
+        "confidence": 43.65
+    },
+    {
+        "video": "v32.mp4",
+        "prediction": "REAL",
+        "confidence": 42.23
+    },
+    {
+        "video": "v33.mp4",
+        "prediction": "REAL",
+        "confidence": 38.92
+    },
+    {
+        "video": "v34.mp4",
+        "prediction": "REAL",
+        "confidence": 35.27
+    },
+    {
+        "video": "v35.mp4",
+        "prediction": "REAL",
+        "confidence": 25.22
+    },
+    {
+        "video": "v36.mp4",
+        "prediction": "REAL",
+        "confidence": 11.26
+    },
+    {
+        "video": "v37.mp4",
+        "prediction": "REAL",
+        "confidence": 21.41
+    },
+    {
+        "video": "v38.mp4",
+        "prediction": "REAL",
+        "confidence": 49.58
+    },
+    {
+        "video": "v39.mp4",
+        "prediction": "FAKE",
+        "confidence": 61.25
+    },
+    {
+        "video": "v4.mp4",
+        "prediction": "REAL",
+        "confidence": 47.35
+    },
+    {
+        "video": "v40.mp4",
+        "prediction": "REAL",
+        "confidence": 37.69
+    },
+    {
+        "video": "v41.mp4",
+        "prediction": "REAL",
+        "confidence": 39.44
+    },
+    {
+        "video": "v42.mp4",
+        "prediction": "REAL",
+        "confidence": 42.42
+    },
+    {
+        "video": "v43.mp4",
+        "prediction": "REAL",
+        "confidence": 44.51
+    },
+    {
+        "video": "v44.mp4",
+        "prediction": "REAL",
+        "confidence": 37.95
+    },
+    {
+        "video": "v45.mp4",
+        "prediction": "REAL",
+        "confidence": 41.97
+    },
+    {
+        "video": "v46.mp4",
+        "prediction": "REAL",
+        "confidence": 39.13
+    },
+    {
+        "video": "v47.mp4",
+        "prediction": "REAL",
+        "confidence": 40.28
+    },
+    {
+        "video": "v48.mp4",
+        "prediction": "REAL",
+        "confidence": 41.26
+    },
+    {
+        "video": "v49.mp4",
+        "prediction": "REAL",
+        "confidence": 36.9
+    },
+    {
+        "video": "v5.mp4",
+        "prediction": "FAKE",
+        "confidence": 50.92
+    },
+    {
+        "video": "v50.mp4",
+        "prediction": "REAL",
+        "confidence": 43.51
+    },
+    {
+        "video": "v51.mp4",
+        "prediction": "REAL",
+        "confidence": 40.01
+    },
+    {
+        "video": "v52.mp4",
+        "prediction": "REAL",
+        "confidence": 41.86
+    },
+    {
+        "video": "v53.mp4",
+        "prediction": "REAL",
+        "confidence": 45.76
+    },
+    {
+        "video": "v6.mp4",
+        "prediction": "REAL",
+        "confidence": 21.35
+    },
+    {
+        "video": "v7.mp4",
+        "prediction": "REAL",
+        "confidence": 38.68
+    },
+    {
+        "video": "v8.mp4",
+        "prediction": "REAL",
+        "confidence": 38.35
+    },
+    {
+        "video": "v9.mp4",
+        "prediction": "REAL",
+        "confidence": 34.71
+    }
+]
