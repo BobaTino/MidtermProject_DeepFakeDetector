@@ -1,0 +1,267 @@
+[
+    {
+        "video": "v1.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 22.56
+    },
+    {
+        "video": "v10.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 32.21
+    },
+    {
+        "video": "v11.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 44.4
+    },
+    {
+        "video": "v12.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 16.39
+    },
+    {
+        "video": "v13.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 45.55
+    },
+    {
+        "video": "v14.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 17.9
+    },
+    {
+        "video": "v15.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 31.8
+    },
+    {
+        "video": "v16.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 41.57
+    },
+    {
+        "video": "v17.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 26.86
+    },
+    {
+        "video": "v18.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 36.95
+    },
+    {
+        "video": "v19.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 29.96
+    },
+    {
+        "video": "v2.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 28.92
+    },
+    {
+        "video": "v20.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 35.4
+    },
+    {
+        "video": "v21.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 32.15
+    },
+    {
+        "video": "v22.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 30.52
+    },
+    {
+        "video": "v23.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 32.54
+    },
+    {
+        "video": "v24.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 34.84
+    },
+    {
+        "video": "v25.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 36.62
+    },
+    {
+        "video": "v26.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 43.22
+    },
+    {
+        "video": "v27.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 43.59
+    },
+    {
+        "video": "v28.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 26.79
+    },
+    {
+        "video": "v29.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 38.15
+    },
+    {
+        "video": "v3.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 26.51
+    },
+    {
+        "video": "v30.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 27.63
+    },
+    {
+        "video": "v31.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 36.05
+    },
+    {
+        "video": "v32.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 38.41
+    },
+    {
+        "video": "v33.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 35.53
+    },
+    {
+        "video": "v34.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 12.01
+    },
+    {
+        "video": "v35.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 2.36
+    },
+    {
+        "video": "v36.mp4",
+        "prediction": "FAKE",
+        "confidence": 60.05
+    },
+    {
+        "video": "v37.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 24.72
+    },
+    {
+        "video": "v38.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 33.67
+    },
+    {
+        "video": "v39.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 7.86
+    },
+    {
+        "video": "v4.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 35.54
+    },
+    {
+        "video": "v40.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 35.75
+    },
+    {
+        "video": "v41.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 27.35
+    },
+    {
+        "video": "v42.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 32.86
+    },
+    {
+        "video": "v43.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 12.36
+    },
+    {
+        "video": "v44.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 25.8
+    },
+    {
+        "video": "v45.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 37.85
+    },
+    {
+        "video": "v46.mp4",
+        "prediction": "FAKE",
+        "confidence": 99.54
+    },
+    {
+        "video": "v47.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 42.59
+    },
+    {
+        "video": "v48.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 41.38
+    },
+    {
+        "video": "v49.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 3.93
+    },
+    {
+        "video": "v5.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 38.44
+    },
+    {
+        "video": "v50.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 37.37
+    },
+    {
+        "video": "v51.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 27.83
+    },
+    {
+        "video": "v52.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 10.46
+    },
+    {
+        "video": "v53.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 15.23
+    },
+    {
+        "video": "v6.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 46.16
+    },
+    {
+        "video": "v7.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 49.73
+    },
+    {
+        "video": "v8.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 31.69
+    },
+    {
+        "video": "v9.mp4",
+        "prediction": "REAL (Low Confidence)",
+        "confidence": 15.47
+    }
+]

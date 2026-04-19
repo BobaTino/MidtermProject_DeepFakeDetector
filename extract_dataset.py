@@ -7,7 +7,7 @@ INPUT_DIRS = {
 }
 
 OUTPUT_DIR = "dataset"
-FRAMES_PER_VIDEO = 20
+FRAMES_PER_VIDEO = 25
 
 face_cascade = cv2.CascadeClassifier(
     cv2.data.haarcascades + "haarcascade_frontalface_default.xml"
